@@ -14,23 +14,23 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/Ajay-Sawant-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/Ajay-Sawant-the-solid" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/AjaySawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/AjaySawant/" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13409618/tejas Chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13409618/tejas-chaudhari" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
-<a href="https://instagram.com/tejaschaudhari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejaschaudhari__" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13409618/Ajay Sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13409618/Ajay-Sawant" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
+<a href="https://instagram.com/AjaySawant__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AjaySawant__" height="30" width="40" style="border: 1px solid #ccc; border-radius: 5px; margin-right: 5px;" /></a>
 </p>
 <hr>
 <h2 align="center">knowledge About</h2>
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-<img src="https://skillicons.dev/icons?i=javascript,c,Python" /><br>
+<img src="https://skillicons.dev/icons?i=,c,Python" /><br>
 </div>
 </p>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari457&show_icons=true&locale=en&layout=compact" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjaySawant&show_icons=true&locale=en&layout=compact" alt="AjaySawant" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&locale=en" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjaySawant&show_icons=true&locale=en" alt="AjaySawant" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457&" alt="tejaschaudhari457" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjaySawant&" alt="AjaySawant" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" /></p>
 <br/>
 <hr/>
 <div align="center">
