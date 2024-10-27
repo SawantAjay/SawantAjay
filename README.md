@@ -21,7 +21,7 @@
 <h2 align="center">knowledge About</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,STM32" />
 <img src="https://skillicons.dev/icons?i=c,Python" /><br>
 </div>
 </p>
